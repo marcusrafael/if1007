@@ -14,3 +14,4 @@ dependency-reduced-pom.xml
 out
 README.html
 *.DS_Store
+.gradle
